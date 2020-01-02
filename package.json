@@ -1,0 +1,16 @@
+{
+    "name": "jquery.imgareaselect",
+    "version": "1.0.0",
+    "description": "jQuery ImageArea Select",
+    "main": "dist/js/jquery.imgareaselect.js",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/iris-crm/imgareaselect"
+    },
+    "author": "",
+    "bugs": {
+      "url": "https://github.com/iris-crm/imgareaselect/issues"
+    },
+    "homepage": "https://github.com/iris-crm/imgareaselect/#readme",
+    "private": true
+  }
